@@ -28,3 +28,29 @@ section{
     height: 600px;
     background-color: lightblue;
 }
+li{
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px;
+}
+h2{
+    font-size: larger;
+    font-weight: bold;
+    padding: 5px;
+}
+p{
+    font-size: larger;
+    padding: 5px;
+}
+h3{
+    font-size: larger;
+    font-weight: bold;
+    padding: 15px;
+}
+footer{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    padding: 10px;
+    color: black;
+    border: solid lightblue 1px;
+}
