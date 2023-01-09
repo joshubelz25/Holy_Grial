@@ -15,16 +15,16 @@ h1{
     font-weight: bold;
 }
 aside{
-    width: 33%;
+    /* width: 33%; */
     height: 600px;
     background-color: lightblue;
 }
 div{
-    width: 33%;
+    /* width: 33%; */
     height: 600px;
 }
 section{
-    width: 33%;
+    /* width: 33%; */
     height: 600px;
     background-color: lightblue;
 }
@@ -48,9 +48,9 @@ h3{
     padding: 15px;
 }
 footer{
-    background-color: lightgoldenrodyellow;
+    background-color: lightblue;
     text-align: center;
     padding: 10px;
     color: black;
-    border: solid lightblue 1px;
+    border: solid black 1px;
 }
